@@ -24,6 +24,11 @@ O programa armazena e exibe:
 ## 📺 Demonstração
 Aqui está uma breve demonstração do sistema capturando e exibindo os dados:
 
+
+https://github.com/user-attachments/assets/8c198bb4-3daf-44bf-b214-08ff40feb31d
+
+
+
 ## 💻 Como executar
 1. Clone o repositório:
    ```bash
